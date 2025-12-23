@@ -16,7 +16,7 @@ All results are displayed **only using Matrix visuals**, as clearly mentioned in
 - Use **Matrix visual only** to present results
 
 ---
-🔗 Data Model (Tables & Links)
+**##** 🔗 ** Data Model (Tables & Links)**
 Below are the key tables used in this project. Click the table names to explore their purpose and structure.
 -[DAX_Depo_Sample_Datasets.xlsx](./DAX_Depo_Sample_Datasets.xlsx)
 
@@ -94,7 +94,7 @@ The data model follows a **star schema** design:
 As per instructions, **only Matrix visuals** are used.
 
 ### 🔹 Matrix – Sales, Returns & Metrics by Product
-![Matrix Output](./Screenshot 2025-12-22 223245.png)
+![Matrix Output.png](./Screenshot 2025-12-22 223245.png)
 
 ### 🔹 Matrix – Time Intelligence & Running Total
 - Sales YTD
@@ -111,7 +111,7 @@ Matrix comparison created to analyze:
 ---
 
 ## 🖼 Data Model Screenshot
-![Data Model](./Screenshot 2025-12-22 223350.png)
+![Data Model.png](./Screenshot 2025-12-22 223350.png)
 
 ---
 
