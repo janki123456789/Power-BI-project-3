@@ -17,8 +17,9 @@ All results are displayed **only using Matrix visuals**, as clearly mentioned in
 
 ---
 **##** 🔗  **Data Model (Tables & Links)**
--Below are the key tables used in this project. Click the table names to explore their purpose and structure.
- [DAX_Depo_Sample_Datasets.xlsx](./DAX_Depo_Sample_Datasets.xlsx)
+
+- Below are the key tables used in this project. Click the table names to explore their purpose and structure.
+  [DAX_Depo_Sample_Datasets.xlsx](./DAX_Depo_Sample_Datasets.xlsx)
 
 ## 🗂 Dataset Tables Used
 
@@ -111,7 +112,7 @@ Matrix comparison created to analyze:
 ---
 
 ## 🖼 Data Model Screenshot
-![Data Model.png](./Screenshot 2025-12-22 223350.png)
+![Data Model](./Screenshot 2025-12-22 223350.png)
 
 ---
 
