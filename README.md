@@ -18,12 +18,12 @@ All results are displayed **only using Matrix visuals**, as clearly mentioned in
 ---
 🔗 Data Model (Tables & Links)
 Below are the key tables used in this project. Click the table names to explore their purpose and structure.
-**[Customer_dim](#Customer_dim)** 
- **[Date_dim](#Date_dim)** 
- **[Product_dim](#Product_dim)** 
- **[Region_dim](#Region_dim)**
- **[Sales_fact](#Sales_fact)** 
- **[Returns_fact](#Returns_fact)** 
+-**[Customer_dim](#Customer_dim)** 
+- **[Date_dim](#Date_dim)**
+-**[Product_dim](#Product_dim)** 
+-**[Region_dim](#Region_dim)**
+-**[Sales_fact](#Sales_fact)** 
+-**[Returns_fact](#Returns_fact)** 
 
 ## 🗂 Dataset Tables Used
 
