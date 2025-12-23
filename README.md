@@ -16,6 +16,14 @@ All results are displayed **only using Matrix visuals**, as clearly mentioned in
 - Use **Matrix visual only** to present results
 
 ---
+🔗 Data Model (Tables & Links)
+Below are the key tables used in this project. Click the table names to explore their purpose and structure.
+**[Customer_dim](#Customer_dim)** 
+ **[Date_dim](#Date_dim)** 
+ **[Product_dim](#Product_dim)** 
+ **[Region_dim](#Region_dim)**
+ **[Sales_fact](#Sales_fact)** 
+ **[Returns_fact](#Returns_fact)** 
 
 ## 🗂 Dataset Tables Used
 
@@ -52,8 +60,6 @@ The data model follows a **star schema** design:
 - One-to-many relationships between dimension tables and fact tables
 - Date_Dim is connected to both Sales_Fact and Returns_Fact
 - Proper relationship direction maintained for filter flow
-
-📸 *Refer to the Data Model screenshot below*
 
 ---
 
@@ -93,7 +99,7 @@ The data model follows a **star schema** design:
 As per instructions, **only Matrix visuals** are used.
 
 ### 🔹 Matrix – Sales, Returns & Metrics by Product
-![Matrix Output](Screenshot 2025-12-22 223245.png)
+![Matrix Output](./Screenshot 2025-12-22 223245.png)
 
 ### 🔹 Matrix – Time Intelligence & Running Total
 - Sales YTD
@@ -110,7 +116,7 @@ Matrix comparison created to analyze:
 ---
 
 ## 🖼 Data Model Screenshot
-![Data Model](Screenshot 2025-12-22 223350.png)
+![Data Model](./Screenshot 2025-12-22 223350.png)
 
 ---
 
