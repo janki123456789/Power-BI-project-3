@@ -96,7 +96,7 @@ The data model follows a **star schema** design:
 As per instructions, **only Matrix visuals** are used.
 
 ### 🔹 Matrix – Sales, Returns & Metrics by Product
-![Matrix Output.png](./Screenshot 2025-12-22 223245.png)
+![Matrix Output](./Screenshot 2025-12-22 223245.png)
 
 ### 🔹 Matrix – Time Intelligence & Running Total
 - Sales YTD
