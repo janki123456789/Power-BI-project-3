@@ -96,7 +96,7 @@ The data model follows a **star schema** design:
 As per instructions, **only Matrix visuals** are used.
 
 ### 🔹 Matrix – Sales, Returns & Metrics by Product
-![img width="861" height="514" alt="Screenshot 2025-12-29 131433" src="https://github.com/user-attachments/assets/a7fe7957-9664-4952-8a3e-bc245b74cf2f" ]
+![alt="Screenshot 2025-12-29 131433" src="https://github.com/user-attachments/assets/a7fe7957-9664-4952-8a3e-bc245b74cf2f" ]
 
 ### 🔹 Matrix – Time Intelligence & Running Total
 - Sales YTD
@@ -114,7 +114,7 @@ Matrix comparison created to analyze:
 
 ## 🖼 Data Model Screenshot
 
-![img width="1146" height="842" alt="Screenshot 2025-12-22 223350" src="https://github.com/user-attachments/assets/3e6a871c-6258-4f6a-ba0f-5dcc1b6ee505" ]
+![alt="Screenshot 2025-12-22 223350" src="https://github.com/user-attachments/assets/3e6a871c-6258-4f6a-ba0f-5dcc1b6ee505" ]
 
 ---
 
