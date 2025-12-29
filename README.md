@@ -97,7 +97,7 @@ As per instructions, **only Matrix visuals** are used.
 
 ### 🔹 Matrix – Sales, Returns & Metrics by Product
 
-![Metrix](Report view.png)
+![Metrix](Reportview.png)
 
 
 ### 🔹 Matrix – Time Intelligence & Running Total
@@ -116,7 +116,7 @@ Matrix comparison created to analyze:
 
 ## 🖼 Data Model Screenshot
 
-![Model view](Model view.png)
+![Model view](Modelview.png)
 
 ---
 
